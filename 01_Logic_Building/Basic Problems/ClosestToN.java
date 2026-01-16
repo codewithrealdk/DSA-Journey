@@ -31,9 +31,9 @@ public class ClosestToN {
 
     public static void main(String[] args) {
         System.out.println(closestToN(14, 2));
-        System.out.println(closestToN(-63, -5));
+        System.out.println(closestToN(63, -5));
         System.out.println(closestToN(-14, 7));
-        System.out.println(closestToN(132, 9));
+        System.out.println(closestToN(132, 10));
         System.out.println(closestToN(144, 3));
 
     }
